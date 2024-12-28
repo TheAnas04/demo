@@ -8,6 +8,10 @@ console.log(b)
 console.log(b)
 console.log(b)
 
+console.log("I am now leading ");
+const str = "lets see what will happen";
+
+
 console.log("lets see what will happen next ")
 console.log("lets see what will happen next ")
 console.log("lets see what will happen next ")
