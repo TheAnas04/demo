@@ -7,3 +7,6 @@ console.log("NOW i got the problem")
 console.log(b)
 console.log(b)
 console.log(b)
+
+console.log("I am now leading ");
+const str = "lets see what will happen";
