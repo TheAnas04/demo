@@ -7,3 +7,8 @@ console.log("NOW i got the problem")
 console.log(b)
 console.log(b)
 console.log(b)
+
+console.log("lets see what will happen next ")
+console.log("lets see what will happen next ")
+console.log("lets see what will happen next ")
+console.log("lets see what will happen next ")
